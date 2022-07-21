@@ -1,5 +1,4 @@
-# 我是github262302
-- 👋 hi, i’m @github262302
+- 👋 hi, i’m 时空弯曲
 - ㊙️ I am Chinese
 - ⭐ my blog address is [www.vimjs.com](http://www.vimjs.com)
 <!---
