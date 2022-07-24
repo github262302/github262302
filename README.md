@@ -1,4 +1,4 @@
-- 👋 hi, i’m 时空弯曲
+- 👋 hi, i’m ...
 - ㊙️ I am Chinese
 - ⭐ my blog address is [www.vimjs.com](http://www.vimjs.com)
 <!---
