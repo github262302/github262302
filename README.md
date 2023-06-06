@@ -1,2 +1,3 @@
 # hello man
-- this is my blog
+- 💻 前端开发
+- 📖 博客
