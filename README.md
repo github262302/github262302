@@ -6,5 +6,6 @@
 # 我的博客🥤
 [立志成为前端专家](https://www.yuque.com/u21754242/zpfeub)
 - [前端简史之 AMD模块 requirejs实现?](https://github.com/github262302/browser-requirejs-example.git)
+- [monorepo 是如何解决大型项目依赖的?](https://github.com/github262302/example-workspace-monorepo.git)
 
 <img src="https://github-readme-stats.vercel.app/api?username=github262302&show_icons=true&theme=radical&include_all_commits=true" alt="" srcset="">
