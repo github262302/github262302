@@ -10,5 +10,6 @@
 - [monorepo 是如何解决大型项目依赖的?](https://github.com/github262302/example-workspace-monorepo.git)
 - [《搜索之 Google》](https://www.yuque.com/u21754242/zpfeub/wd6xw93v5g6gqgig)
 - [《搜索之 Github》](https://www.yuque.com/u21754242/zpfeub/lawgdasd0np0oali)
+- [ npm 遇到的问题排查 ](./npm-issues.md)
 
 <img src="https://github-readme-stats.vercel.app/api?username=github262302&show_icons=true&theme=radical&include_all_commits=true" alt="" srcset="">
